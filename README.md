@@ -4,6 +4,17 @@ A semantic-similarity content-based recommender system for papers on JASSS.org (
 
 Bachelor's Thesis for The University of Nottingham BSc (Hons) Computer Science with AI Final Project
 
+Included are:
+
+-Dataset scraper code
+
+-Raw dataset
+
+-(Relatively) cleaned dataset
+
+-Exploratory Data Analysis Jupyter Notebook
+
+-Recommender System 
 
 
 
